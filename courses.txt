@@ -1,2 +1,3 @@
 SDEV 1040: Database Development Fundamentals
 SDEV 1070: Introduction to DevOps
+SDEV 1060: Unit Testing
