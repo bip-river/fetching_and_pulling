@@ -1,2 +1,4 @@
 SDEV 2110 JavaScript
 Fire Breathing 101
+SDEV 1022 HTML & CSS
+SDEV Commons
